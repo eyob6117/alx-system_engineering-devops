@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al /pwd /cd /boot
+ls -a /0x00-shell /alx-system_engineering-devops /boot
