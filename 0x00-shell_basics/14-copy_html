@@ -1,2 +1,2 @@
 #!/bin/bash
-robcopy /tmp/file_0.html
+cp -u *.html ../
