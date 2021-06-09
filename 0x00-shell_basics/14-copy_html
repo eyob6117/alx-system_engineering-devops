@@ -1,2 +1,2 @@
 #!/bin/bash
-robcopy . ../
+robcopy /tmp/file_0.html
