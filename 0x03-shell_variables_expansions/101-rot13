@@ -1,4 +1,2 @@
 #!/bin/bash
-echo tr ‘d-za-cD-ZA-C’ ‘a-zA-Z’
-
-
+tr ‘d-za-cD-ZA-C’ ‘a-zA-Z’
